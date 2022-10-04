@@ -27,7 +27,8 @@ SECRET_KEY = "django-insecure-ve)04!d191k9vmqil0pz(wm+g+n-tgks7&zbqj!t)1i!+qa+&_
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'social-media-api-main.herokuapp.com'
+    'social-media-api-main.herokuapp.com',
+    '127.0.0.1'
 ]
 
 
